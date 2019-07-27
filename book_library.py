@@ -1,4 +1,3 @@
-import random
 print('Hi, Welcome to J-devs Library.\nYou can search a book by Name(N), Year published(Y) or Author(A).')
 library_name = ['Automate the boring stuff with python', 'A byte of python', 'Introduction to programming using python', 'Getting started with python', 'Python for dummies', 'Rich dad poor dad']
 library_year = {2011: ['Rich dad poor dad'],
